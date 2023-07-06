@@ -1,11 +1,10 @@
 # Taylor Python Environment.yml
-[![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/jupyter/user/taysirset-pythonrepo-98wbypzn/lab/workspaces/auto-n)
-
+[![Binder](https://mybinder.org/badge_logo.svg)] (https://mybinder.org/v2/gh/taysirset/pythonrepo/HEAD)
 A Binder-compatible repo with an `environment.yml` file.
 
 Access this Binder by clicking the blue badge above or at the following URL:
 
-https://notebooks.gesis.org/binder/jupyter/user/taysirset-pythonrepo-98wbypzn/lab/workspaces/auto-n
+https://mybinder.org/v2/gh/taysirset/pythonrepo/HEAD
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
 depend, specified as though they were created using the following `conda` commands:
