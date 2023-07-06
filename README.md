@@ -1,4 +1,4 @@
-# Conda environment with environment.yml
+# Taylor Pythong Environment.yml
 [![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/jupyter/user/taysirset-pythonrepo-98wbypzn/lab/workspaces/auto-n)
 
 A Binder-compatible repo with an `environment.yml` file.
